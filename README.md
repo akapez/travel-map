@@ -19,5 +19,7 @@
 ### Login
 ![Login](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/login.png)
 
-### Add Pins
-![Pin](https://github.com/avishka964/travel-map/blob/master/screenshots/pin.png)
+### Add Pin
+![Pin](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/add.png)
+
+![Pin](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/pin.png)
