@@ -10,3 +10,14 @@
 
 **screenshots**
 
+### Map
+![Map](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/map.png)
+
+### Register
+![Register](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/register.png)
+
+### Login
+![Login](https://raw.githubusercontent.com/avishka964/travel-map/master/screenshots/login.png)
+
+### Add Pins
+![Pin](https://github.com/avishka964/travel-map/blob/master/screenshots/pin.png)
